@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bc949a1-36bd-419f-9851-1d542241ed03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/SocketAssignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Client/Client1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Client/Client2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Client/Client3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Client/ReadHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Client/WriteHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Server/ServerReadHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/out/production/SocketAssignment/Server/ServerWriteHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Client/Client1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Client/Client2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Client/Client3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Client/ReadHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Client/WriteHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Server/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Server/ServerReadHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 1-Socket Programming/src/Server/ServerWriteHandler.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Ve8d076X4KhNTt1bnpQRKa5Uzj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Promi/IdeaProjects/SWE-326-Distributed-System-Lab/Task 1 - Socket Programming"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Client3">
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client1" />
+      <module name="SocketAssignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.Client3" />
+      <module name="SocketAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.Client1" />
+      <module name="SocketAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.Client2" />
+      <module name="SocketAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server.Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Server" />
+      <module name="SocketAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Client.Client2" />
+        <item itemvalue="Application.Client.Client1" />
+        <item itemvalue="Application.Server.Server" />
+        <item itemvalue="Application.Client1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc949a1-36bd-419f-9851-1d542241ed03" name="Changes" comment="" />
+      <created>1695185271043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695185271043</updated>
+    </task>
+    <servers />
+  </component>
+</project>
